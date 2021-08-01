@@ -1,0 +1,7 @@
+configuration {
+	show-icons:	true;
+	icon-theme:	"Papirus";
+	terminal:	"kitty";
+	hide-scrollbar:	true;
+}
+@import "/usr/share/rofi/themes/flamingo.rasi"

@@ -1,0 +1,26 @@
+background_opacity: 0.5
+colors:
+  primary:
+    background: "#4b0757"
+    foreground: "#f0f0f0"
+  cursor:
+    background: "#f0f0f0"
+    foreground: "#26282a"
+  normal:
+    black: "#000000"
+    red: "#ff5555"
+    green: "#63fa0b"
+    yellow: "#f1fa8c"
+    blue: "#caa9fa"
+    magenta: "#ff79c6"
+    cyan: "#8be9fd"
+    white: "#bfbfbf"
+scrolling:
+  history: 10000
+mouse:
+  hide_when_typing: true
+draw_bold_text_with_bright_colors: false
+window:
+  padding:
+    x: 8
+    y: 8

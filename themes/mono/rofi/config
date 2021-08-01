@@ -1,0 +1,6 @@
+configuration {
+	show-icons:	true;
+	icon-theme:	"Noto Color Emoji";
+	terminal:	"alacritty";
+	hide-scrollbar:	true;
+}
